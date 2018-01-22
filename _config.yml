@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
+# baseurl: "/type-theme"
+baseurl: ""
 url: "https://jrcho.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -29,7 +30,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+#  github: "rohanchandra/type-theme"
   google_plus:
   instagram:
   linkedin:  # Full URL
